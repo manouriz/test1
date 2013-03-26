@@ -1,4 +1,4 @@
 /**
 * It's not almost complicated!
-* // second line added on client in a same time
+* // test line added on server
 */
